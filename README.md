@@ -136,7 +136,7 @@ int main() {
 
 
 ## OUTPUT
-![alt text](<../Screenshot at 2025-05-07 12-43-12.png>)
+![image](https://github.com/user-attachments/assets/c7dafa9b-68bc-41c0-a913-2013e98d2962)
 
 # RESULT:
 The program is executed successfully.
